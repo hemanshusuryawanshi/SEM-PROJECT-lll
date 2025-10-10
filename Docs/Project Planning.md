@@ -1,7 +1,6 @@
 # Project Planning
 
-## Project Name
-**Health Insurance Purchase Prediction**
+## Project Name: Health Insurance Purchase Prediction
 
 ## Project Goal
 The main goal of this project is to **predict whether a customer will buy health insurance or not**.
