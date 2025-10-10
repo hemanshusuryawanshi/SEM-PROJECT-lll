@@ -1,15 +1,14 @@
 ## Introduction
-This project predicts whether a customer is likely to buy health insurance. It helps insurance companies understand their customers better and offer the right products to the right people.
+This project is about predicting whether a customer is likely to buy health insurance. Insurance companies can use this information to understand their customers better and offer the right products to the right people.
+Using customer data like age, income, family size, health conditions, and previous insurance history, we can find patterns that show who is more likely to purchase insurance. Machine learning helps us turn these patterns into a model that can make predictions for new customers.
 
-We use customer data like age, income, family size, health conditions, and previous insurance history to find patterns that indicate who is more likely to purchase insurance. Machine learning turns these patterns into a model that can make predictions for new customers.
-
-## Why This Project?
-* Helps insurance companies focus on customers who are likely to buy.
+### Why This Project?
+* Helps insurance companies focus on customers who are more likely to buy insurance.
 * Provides insights into what factors influence a customer’s decision.
 * Makes marketing and customer engagement more effective.
 
-## Features Considered
+### What We Look At
 * Personal details: Age, Gender, Family Size
 * Financial details: Income, Occupation
-* Health and lifestyle: Existing conditions, Previous insurance
+* Health and lifestyle: Existing conditions, previous insurance
 * Location
