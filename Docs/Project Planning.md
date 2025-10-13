@@ -1,7 +1,5 @@
 # Project Planning
 
-## Project Name: Health Insurance Purchase Prediction
-
 ## Project Goal
 The main goal of this project is to **predict whether a customer will buy health insurance or not**.
 By using real-world data from **Kaggle**, we can understand what factors influence a customer’s decision and help insurance companies reach the right people.
